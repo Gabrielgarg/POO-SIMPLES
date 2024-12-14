@@ -7,7 +7,8 @@ Na classe Funcionario podemos ver um exemplo de encapsulamento, que visa protege
 Na classe Gerente podemos ver um exemplo de herança que tem permite aproveitar o código dos atributos da classe pai, para usar em uma classe filha
 
 ### Interface(Interface Liderança/Marketing)
-No código em exemplo temos 2 interfaces, a interface permite fazermos contratos que são métodos que vão ser implementados(usados) pelas classes que usam a interface, a interface é também uma classe abstrata
+No código em exemplo temos 2 interfaces, a interface permite fazermos contratos que são métodos que vão ser implementados(usados) pelas classes que usam a interface, a interface é também uma classe abstrata.
+**Obs.: Nesse caso o Design Pattern "abstract", é usado pelas interfaces do POO**
 
 ### Herança múltipla/ Polimorfismo/ Composição(Classe Chefe)
 
